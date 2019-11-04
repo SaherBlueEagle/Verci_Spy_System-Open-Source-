@@ -1,4 +1,5 @@
 # Verci_Spy_System-Open-Source-License
+# Blogspot : https://blueeaglehacks.blogspot.com/2019/11/verci-spy-system-blue-eagle-tools.html
 Welcome To Verci_Spy_System 
 
 => License Agreement Approval :
