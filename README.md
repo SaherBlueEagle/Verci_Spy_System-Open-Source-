@@ -5,7 +5,7 @@ Welcome To Verci_Spy_System
 => License Agreement Approval :
 * Illegal use of this software may lead you to prison.
 *The Programmer is not responsible for any Illegal Use of this Software .
-# This is For Educational Pusposes Only ! and User is responsibile for his usage of this Tool
+# This is For Educational Purposes Only ! and User is responsible for his usage of this Tool
 
 # For Example : 
 - Parental Control , Track what your children are doing.
