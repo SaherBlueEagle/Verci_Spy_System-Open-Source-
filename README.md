@@ -1,7 +1,14 @@
 # Verci_Spy_System-Open-Source-License
-# Our Blog : https://blueeaglehacks.blogspot.com/2019/11/verci-spy-system-blue-eagle-tools.html
-Welcome To Verci_Spy_System 
 
+# Welcome To Verci_Spy_System ( Welcome to me)
+p align="center">
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/Verci_Spy_System-Open-Source-/master/verci%20image.png" > 
+
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/Verci_Spy_System-Open-Source-/master/verci%20x.jpg" width="400" height="300" >&nbsp &nbsp <img src="https://raw.githubusercontent.com/SaherBlueEagle/Verci_Spy_System_Endless_JAVA/d95cfb44f9a661f9676e1df90680b016ff15ef25/verci%20java%20edition%20perview.png" width="400" height="300" >&nbsp &nbsp 
+<br>
+</p>
 => License Agreement Approval :
 * Illegal use of this software may lead you to prison.
 *The Programmer is not responsible for any Illegal Use of this Software .
@@ -13,19 +20,6 @@ Welcome To Verci_Spy_System
 - School/Institutions , for students
 - Personal Control and File Backup , Make sure no one is using your computer when you are away.
 - Other Noble Purposes
-
-[![Facebook Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/facebook_button.png)](https://www.facebook.com/NsBleeD/posts/)
-
-# If you like my work, consider buying me a Nescafe coffee Or Energy Drink 🥰 
-
-# Bitcoin : 3DP2uB5jzxbwVcBm2ssrUstgkdCJPxciWm
-
-[![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)](https://www.facebook.com/NsBleeD/posts/)
-# Support us please 🥰  
-Bitcoin : 3DP2uB5jzxbwVcBm2ssrUstgkdCJPxciWm
-
-[![Patreaon Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/patreon_button2.png)](https://www.patreon.com/BlueEagle)
-# Support us please 🥰 for more & more  
 
 
 => By accepting this Agreement :
